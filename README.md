@@ -2,7 +2,7 @@
 
 **MediBesti** is an intelligent medication management Flutter app that allows users to scan prescriptions, receive medicine reminders, track allergies, and connect with doctors — all from one place. Designed for simplicity, accessibility, and daily wellness.
 
-![App Logo](lib/assets/onboarding/logo.png)
+![App Logo](lib/assets/onboarding/logo1.png)
 
 ---
 
