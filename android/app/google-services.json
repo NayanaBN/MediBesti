@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "801918148374",
+    "project_id": "medibesti-4ea89",
+    "storage_bucket": "medibesti-4ea89.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:801918148374:android:cc95eabda076dd23533a37",
+        "android_client_info": {
+          "package_name": "com.example.medibesti"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBLsH8gaigdjuqg4-Hx-yd31kxjOMtW9Zg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
